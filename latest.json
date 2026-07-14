@@ -1,0 +1,10 @@
+{
+    "version":  "0.34.1",
+    "published_at":  "2026-07-14T08:56:18Z",
+    "notes":  "新增应用内检查更新、一键安装、强制SHA-256校验、数据保留、健康检查与失败自动回滚。",
+    "download_url":  "https://github.com/LW-latano/shoe-image-workbench-updates/releases/download/v0.34.1/Latano_Shoe_Workbench_0.34.1_Update.zip",
+    "sha256":  "781131aa8cc545625a05713c30115e484c2921c814e0f005063ae54fdf624797",
+    "size":  47608528,
+    "mandatory":  false,
+    "release_page":  "https://github.com/LW-latano/shoe-image-workbench-updates/releases/tag/v0.34.1"
+}
