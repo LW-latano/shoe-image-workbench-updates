@@ -1,10 +1,10 @@
 {
     "version":  "0.34.1",
-    "published_at":  "2026-07-14T09:23:02Z",
-    "notes":  "修复首次安装入口编码与双击默认目录；保留在线更新、强制校验、数据保护、健康检查与失败回滚。",
+    "published_at":  "2026-07-14T09:35:15Z",
+    "notes":  "修复首次安装入口；新增正式桌面图标；保留在线更新、强制校验、数据保护、健康检查与失败回滚。",
     "download_url":  "https://github.com/LW-latano/shoe-image-workbench-updates/releases/download/v0.34.1/Latano_Shoe_Workbench_0.34.1_Update.zip",
-    "sha256":  "f44315048f195cf9077337b14b2674e7cdcba0ecbb0e845cfebaf98d11823f6e",
-    "size":  47609041,
+    "sha256":  "0957bb908333f77d74a942a6dad7042199a2d12cd9c87b5ac87e79e5c16ee85b",
+    "size":  47785636,
     "mandatory":  false,
     "release_page":  "https://github.com/LW-latano/shoe-image-workbench-updates/releases/tag/v0.34.1"
 }
